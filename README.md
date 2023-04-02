@@ -53,7 +53,7 @@ Once the 2nd loop is finished iterating, it will continue on to the next price i
 
 ## Setup
 
-After extracting the Solution.zip file and once inside the Solution directory, install NPM.
+Clone repository, install NPM if not yet installed.
 
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
